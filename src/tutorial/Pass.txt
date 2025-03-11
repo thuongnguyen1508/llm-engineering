@@ -1,0 +1,14 @@
+Key openai
+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
+
+
+curl https://api.openai.com/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer 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" \
+  -d '{
+    "model": "gpt-4o-mini",
+    "store": true,
+    "messages": [
+      {"role": "user", "content": "write a haiku about ai"}
+    ]
+  }'
