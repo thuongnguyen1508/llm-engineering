@@ -149,25 +149,4 @@ An autonomous agent system that collaborates with models to identify deals and n
 
 ---
 
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python main.py
-   ```
-
-## Contributors
-- [Your Name]
-- [Other Contributors]
-
-## License
-MIT License
 
